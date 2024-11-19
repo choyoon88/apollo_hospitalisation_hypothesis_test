@@ -1,5 +1,7 @@
 # Hospitalization Hypothesis Test for Apollo
 
+***To view the work please click Hospitalization Hypothesis Testing.ipynb from above.***
+
 Apollo Hospitals was established in 1983, renowned as the architect of modern healthcare in India. As the nation's first corporate hospital, Apollo Hospitals is acclaimed for pioneering the private healthcare revolution in the country.
 
 As a data scientist, the ultimate goal is to tease out meaningful and actionable insights from Patient-level collected data. You can help Apollo hospitals to be more efficient, influence diagnostic and treatment processes, and to map the spread of a pandemic.
